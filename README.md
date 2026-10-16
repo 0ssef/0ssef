@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/banner.svg" width="800" alt="Hussain Abbas - Director of Engineering" />
+  <img src="./Purple Abstract Graphic Design LinkedIn Article Cover Image.png" width="100%" alt="Cloud and DevOps Banner" />
 </p>
 
 <img src="images/me.jpg" align="right" />
