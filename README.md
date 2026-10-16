@@ -50,8 +50,6 @@ My focus is to build, automate, secure, and continuously improve cloud infrastru
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yousefbkaa)
 
 
-## Skills & Expertise
-
 
 ## Skills & Expertise
 
