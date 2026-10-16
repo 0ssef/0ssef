@@ -2,7 +2,7 @@
   <img src="./ChatGPT Image Jun 15, 2026, 03_22_44 PM.png" width="100%" alt="Cloud and DevOps Banner" />
 </p>
 
-<img src="Purple Abstract Graphic Design LinkedIn Article Cover Image.png" align="right" />
+<img src="Purple Abstract Graphic Design LinkedIn Article Cover Image.png" align="right" width="150" />
 
 My name is Yousef Fath Elbab, and I go by `Bkka` online in most places. Over the past two decades, I have built and, more importantly, helped others build computer programs and scalable systems.
 
