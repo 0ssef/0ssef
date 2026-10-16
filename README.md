@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Purple Abstract Graphic Design LinkedIn Article Cover Image.png" width="100%" alt="Cloud and DevOps Banner" />
+  <img src="./ChatGPT Image Jun 15, 2026, 03_22_44 PM.png" width="100%" alt="Cloud and DevOps Banner" />
 </p>
 
 <img src="images/me.jpg" align="right" />
