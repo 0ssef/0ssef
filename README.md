@@ -2,8 +2,6 @@
   <img src="./ChatGPT Image Jun 15, 2026, 03_22_44 PM.png" width="100%" alt="Cloud and DevOps Banner" />
 </p>
 
-<img src="Purple Abstract Graphic Design LinkedIn Article Cover Image.png" align="right" width="150" />
-
 I am a Cloud and DevOps enthusiast focused on understanding how modern infrastructure is designed, secured, automated, and managed at scale.
 
 My technical interests revolve around cloud architecture, infrastructure management, networking, security, and automation. Through hands-on AWS projects, I am building practical experience in designing cloud environments and understanding the engineering principles behind reliable and scalable systems.
