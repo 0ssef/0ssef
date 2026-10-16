@@ -4,26 +4,28 @@
 
 <img src="Purple Abstract Graphic Design LinkedIn Article Cover Image.png" align="right" width="150" />
 
-My name is Yousef Fath Elbab, and I go by `Bkka` online in most places. Over the past two decades, I have built and, more importantly, helped others build computer programs and scalable systems.
+I am a Cloud and DevOps enthusiast focused on understanding how modern infrastructure is designed, secured, automated, and managed at scale.
 
-I work as a **Director of Engineering**, focusing heavily on Developer Experience (DevEx), Platform Engineering, DevOps, and exploring AI-native workflows. I contribute to open-source software out of my own interest and as part of my work. 
+My technical interests revolve around cloud architecture, infrastructure management, networking, security, and automation. Through hands-on AWS projects, I am building practical experience in designing cloud environments and understanding the engineering principles behind reliable and scalable systems.
 
-I have a [longer README](https://hussainweb.github.io/README/) if you are interested in more about my management and working style. You can also explore my [overall timeline](https://hussainweb.me/changelog), the [tools I use](https://hussainweb.me/uses/), and my writing on my [personal blog](https://hussainweb.me).
+I have worked on projects involving Amazon VPC, VPC Peering, and Amazon Cognito, strengthening my understanding of cloud networking, resource isolation, and identity management.
+
+Beyond technology, my experience as a Founder at Triple E has contributed to my interest in leadership, strategic thinking, collaboration, and building ideas into practical outcomes.
+
+I believe strong engineering is built on more than knowing tools. It requires understanding the underlying systems, solving problems methodically, prioritizing security, and continuously improving the way infrastructure is designed and operated.
+
+My focus is to build, automate, secure, and continuously improve cloud infrastructure while developing the skills required to engineer reliable solutions in real-world environments.
 
 ---
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-
-## 📝 Latest Blog Posts
-
-- [Understanding AWS IAM: Secure Your Cloud]([https://medium.com/@yousefbkaa](https://medium.com/@yousefbkaa/understanding-aws-iam-secure-your-cloud-c291b071ea14))
-- [Amazon S3: An Introduction to Object Storage on AWS]([https://medium.com/@yousefbkaa](https://medium.com/@yousefbkaa/10-best-practices-for-aws-security-8b9e7a5c0c55))
-- [Amazon EC2 Basics Introduction]([https://medium.com/@yousefbkaa](https://medium.com/@yousefbkaa/cloud-operations-essential-practices-for-effective-cloud-management-bede8680e9b3))
-- [An Introduction to AWS Cloud for Beginners]([https://medium.com/@yousefbkaa](https://medium.com/@yousefbkaa/an-introduction-to-aws-cloud-for-beginners-f7fbc9e8aa19))
+- [Understanding AWS IAM: Secure Your Cloud](https://medium.com/@yousefbkaa/understanding-aws-iam-secure-your-cloud-c291b071ea14)
+- [AWS Security: 10 Best Practices](https://medium.com/@yousefbkaa/10-best-practices-for-aws-security-8b9e7a5c0c55)
+- [Cloud Operations: Essential Practices for Effective Cloud Management](https://medium.com/@yousefbkaa/cloud-operations-essential-practices-for-effective-cloud-management-bede8680e9b3)
+- [An Introduction to AWS Cloud for Beginners](https://medium.com/@yousefbkaa/an-introduction-to-aws-cloud-for-beginners-f7fbc9e8aa19)
 
 [Read more on Medium →](https://medium.com/@yousefbkaa)
-
 <!-- BLOG-POST-LIST:END -->
 
 ---
