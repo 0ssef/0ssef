@@ -4,7 +4,7 @@
 
 <img src="images/me.jpg" align="right" />
 
-My name is Hussain Abbas, and I go by `hussainweb` online in most places. Over the past two decades, I have built and, more importantly, helped others build computer programs and scalable systems.
+My name is Yousef Fath Elbab, and I go by `Bkka` online in most places. Over the past two decades, I have built and, more importantly, helped others build computer programs and scalable systems.
 
 I work as a **Director of Engineering**, focusing heavily on Developer Experience (DevEx), Platform Engineering, DevOps, and exploring AI-native workflows. I contribute to open-source software out of my own interest and as part of my work. 
 
@@ -14,11 +14,16 @@ I have a [longer README](https://hussainweb.github.io/README/) if you are intere
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Flow Engineering: Making the Invisible Visible](https://hussainweb.me/blog/flow-engineering-review/)
-- [Modern Software Engineering: The 2021 Book We Needed for the AI Era](https://hussainweb.me/blog/modern-software-engineering-review/)
-- [Solving Homelab Authentication: A Story of Cloudflare, Authelia, Keycloak, and Tinyauth](https://hussainweb.me/blog/homelab-authentication-journey/)
-- [The hidden trap in Terraform&#39;s S3 backend &lpar;and why Cloudflare breaks it&rpar;](https://hussainweb.me/blog/terraform-s3-backend-cloudflare-proxy-pitfalls/)
-- [Life after MinIO: Why I switched to SeaweedFS in my homelab](https://hussainweb.me/blog/minio-alternatives-seaweedfs-garage/)
+
+## 📝 Latest Blog Posts
+
+- [Understanding AWS IAM: Secure Your Cloud]([https://medium.com/@yousefbkaa](https://medium.com/@yousefbkaa/understanding-aws-iam-secure-your-cloud-c291b071ea14))
+- [Amazon S3: An Introduction to Object Storage on AWS]([https://medium.com/@yousefbkaa](https://medium.com/@yousefbkaa/10-best-practices-for-aws-security-8b9e7a5c0c55))
+- [Amazon EC2 Basics Introduction]([https://medium.com/@yousefbkaa](https://medium.com/@yousefbkaa/cloud-operations-essential-practices-for-effective-cloud-management-bede8680e9b3))
+- [An Introduction to AWS Cloud for Beginners]([https://medium.com/@yousefbkaa](https://medium.com/@yousefbkaa/an-introduction-to-aws-cloud-for-beginners-f7fbc9e8aa19))
+
+[Read more on Medium →](https://medium.com/@yousefbkaa)
+
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -26,21 +31,25 @@ I have a [longer README](https://hussainweb.github.io/README/) if you are intere
 ## Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=hussainweb&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&show=reviews,discussions" alt="Hussain's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hussainweb&layout=compact&theme=tokyonight&border_radius=10&hide=css,html" alt="Hussain's Top Languages" height="180" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=0ssef&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&show=reviews,discussions" alt="Yousef's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=0ssef&layout=compact&theme=tokyonight&border_radius=10&hide=css,html" alt="Yousef's Top Languages" height="180" />
 </p>
+
 
 ---
 
-## Let's Connect
+## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussainweb/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/user/hussainweb)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/hussainweb)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hussain.web/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hussainweb)
-[![GitLab](https://img.shields.io/badge/GitLab-%23330F63.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/hussainweb)
-[![Drupal](https://img.shields.io/badge/Drupal-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white)](https://www.drupal.org/u/hussainweb)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yousefbkaa@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0ssef)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/0ossef/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/0ssef0?locale=ar_AR)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@bkaa931)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yousefbkaa)
+
+
+## Skills & Expertise
+
 
 ## Skills & Expertise
 
@@ -50,53 +59,50 @@ I have a [longer README](https://hussainweb.github.io/README/) if you are intere
 
 **🎯 Leadership & Strategy**
 <br/>
-[![DevEx](https://img.shields.io/badge/Developer_Experience-FF69B4?style=for-the-badge&logo=dev.to&logoColor=white)](https://hussainweb.me/)
-[![Platform Engineering](https://img.shields.io/badge/Platform_Engineering-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)](https://hussainweb.me/)
-[![Mentoring](https://img.shields.io/badge/Mentoring-00BFA5?style=for-the-badge&logo=google-classroom&logoColor=white)](https://hussainweb.me/)
-[![Architecture](https://img.shields.io/badge/Architecture-FFD700?style=for-the-badge&logo=diagrams.net&logoColor=black)](https://hussainweb.me/)
+[![Leadership](https://img.shields.io/badge/Leadership-6A1B9A?style=for-the-badge&logo=leaderprice&logoColor=white)](https://github.com/0ssef)
+[![Team Management](https://img.shields.io/badge/Team_Management-0052CC?style=for-the-badge&logo=teamspeak&logoColor=white)](https://github.com/0ssef)
+[![Project Management](https://img.shields.io/badge/Project_Management-00897B?style=for-the-badge&logo=asana&logoColor=white)](https://github.com/0ssef)
+[![Strategic Planning](https://img.shields.io/badge/Strategic_Planning-FF8F00?style=for-the-badge&logo=target&logoColor=white)](https://github.com/0ssef)
+[![Entrepreneurship](https://img.shields.io/badge/Entrepreneurship-37474F?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/0ssef)
 
 <br/>
 
 **☁️ Cloud & Infrastructure**
 <br/>
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-[![Azure](https://img.shields.io/badge/azure-%230089D6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
-[![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
-[![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)](https://www.ansible.com/)
+[![Azure](https://img.shields.io/badge/Azure-%230089D6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
+[![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)](https://www.ansible.com/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 
 </td>
 <td valign="top" width="50%">
 
-**💻 Languages & Frameworks**
+**💻 Languages & Scripting**
 <br/>
-[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://en.wikipedia.org/wiki/JavaScript)
-[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
-[![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-[![Laravel](https://img.shields.io/badge/laravel-%23ff2d20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
+[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/)
 
 <br/>
 
-**🤖 AI & Agentic Workflows**
+**🛠️ DevOps & Other Tools**
 <br/>
-[![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/)
-[![ADK](https://img.shields.io/badge/ADK-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)](https://adk.dev/)
-
-<br/>
-
-**🛠️ Other Tools**
-<br/>
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Drupal](https://img.shields.io/badge/Drupal-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white)](https://www.drupal.org/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)](https://prometheus.io/)
+[![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/)
+[![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/)
+[![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white)](https://developer.hashicorp.com/vagrant)
 
 </td>
 </tr>
 </table>
+
 
 ## Previously Worked With
 
