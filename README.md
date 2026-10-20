@@ -115,3 +115,10 @@ My focus is to build, automate, secure, and continuously improve cloud infrastru
 <p align="center">
   <a href="https://youtu.be/UqNbBe3lVCI">🎥 How did I build this profile?</a>
 </p>
+
+### Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/bkk9)
+
